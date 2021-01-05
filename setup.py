@@ -29,7 +29,7 @@ setup(
 
     install_requires=[
         'pandas',
-        'numpy==1.18.4',
+        'numpy==1.19.3',
         'simple-salesforce>=1.0.0'
     ] + pyver_install_requires,
     keywords=about['__keywords__'],
